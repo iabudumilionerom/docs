@@ -194,6 +194,11 @@ const sidebars = {
       label: "Build Modular",
       id: "developers/build-modular"
     },
+    { 
+          type: "doc", 
+          label: "Setting Up Environment", 
+          id: "nodes/environment" 
+    },
     {
       type: "category",
       label: "Create A Celestia Wallet",

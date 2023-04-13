@@ -32,4 +32,8 @@ Submission link can be found [here](https://celestia.knack.com/theblockspacerace
 
 **This is only a submission example! Do NOT use it on your task submission.**
 
-`053FE12103804C72A822BFAFBB2061867E2DA4F5D10862DEE7A5E362ED48ABA3`
+you shoud take the "txhash":"  
+
+start with 159...
+
+`159FE12103804C72A822BFAFBB2061867E2DA4F5D10862DEE7A5E362ED48ABA3` 
